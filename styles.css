@@ -1,0 +1,17 @@
+ /* Default styles */
+  .logoLib {
+    margin-left: 13%;
+  }
+
+  /* Media queries for different screen sizes */
+  @media (max-width: 768px) {
+    .logoLib {
+      margin-left: 13%;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .logoLib {
+      margin-left: 13%;
+    }
+  }
